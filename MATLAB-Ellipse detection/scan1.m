@@ -1,5 +1,4 @@
 E = imread('transformed 0.jpg');
-I = imread('blank.jpg');
 % override some default parameters
 params.minMajorAxis = 200;
 params.maxMajorAxis = 400;
